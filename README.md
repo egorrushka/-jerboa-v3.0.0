@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/logo.jpg" alt="EKey-Jerboa" width="190"/>
+<img src="docs/logo.png" alt="EKey-Jerboa" width="190"/>
 
 # 🦘 EKey-Jerboa **V3.0.0**
 
