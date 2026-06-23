@@ -3,7 +3,7 @@
 <img src="docs/logo.png" alt="EKey-Jerboa" width="190"/>
 
 # 🦘 EKey-Jerboa **V3.0.0**
-
+Инструмент предназначен для законных открытых задач Bitcoin Puzzle и исследований. Используйте ответственно.
 ### GPU-перебор приватных ключей Bitcoin Puzzle — *базируется на Jerboa v2.0.0, дополнено режимом vdC-телепорта*
 
 [![Version](https://img.shields.io/badge/version-V3.0.0-0ec604?style=flat-square)](#)
